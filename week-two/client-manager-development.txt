@@ -38,6 +38,9 @@ Use Google or another search engine to learn the keyboard commands to take a scr
 
 Then, also list here the keyboard commands to switch between your different virtual desktops (on some operating systems, you might be able to customize the shortcuts to your own liking):
 
+For Mac OS X El Capitan, there are a few ways that I can switch in between desktops. The easiest for me is to use my multi-touch trackpad and do a three or four finger swipe to the left and right (either works). 
+You also can use the 'control' + left/right arrows to quickly switch between them. 
+Another option on top of that is you can use the mission control button on your mac keyboard and use your mouse to go in-between the different desktops. 
 
 4. Set up a distraction-free browser.
 
