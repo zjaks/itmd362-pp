@@ -57,7 +57,7 @@ table {
 }
 
 label {
-	color: #002080;
+	color: #f2f2f2;
 	display: block;
 	margin-top: 1em;
 	font-size: 1.25em;
@@ -71,9 +71,9 @@ label {
 	display: block;
 	text-align: center;
 	width: 17em;
-	border: 2px;
+	border: 2px solid #262626;
 	padding: 0.5em;
-	
+	background-color: #004080;
 }
 
 
