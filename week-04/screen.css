@@ -81,6 +81,7 @@ input, textarea {
 	margin: auto;
 	margin-top: 0.1em;
 	margin-bottom: 0.25em;
+	background-color: #d9d9d9;
 }
 
 input[type=submit] {
@@ -90,6 +91,10 @@ input[type=submit] {
     border:0 none;
     cursor:pointer;
     border-radius: 5px; 
+}
+
+input[type=submit]:hover {
+	color: #1a1aff;
 }
 
 
