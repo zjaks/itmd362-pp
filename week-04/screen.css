@@ -60,6 +60,20 @@ label {
 	color: #002080;
 	display: block;
 	margin-top: 1em;
+	font-size: 1.25em;
+}
+
+#wrapper {
+	margin-top: 1.5em;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 2em;
+	display: block;
+	text-align: center;
+	width: 17em;
+	border: 2px;
+	padding: 0.5em;
+	
 }
 
 
