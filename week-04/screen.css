@@ -48,15 +48,19 @@ table {
 }
 /*End CSS Reset*/
 
-
 /* Begin Zdenek's CSS */
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:500);
 
 #info {
-font-family: Verdana,Geneva,sans-serif;
-font-family: 'Ubuntu', sans-serif;
+	font-family: Verdana,Geneva,sans-serif;
+	font-family: 'Ubuntu', sans-serif;
 }
 
+label {
+	color: #002080;
+	display: block;
+	margin-top: 1em;
+}
 
 
 
