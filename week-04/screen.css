@@ -50,9 +50,11 @@ table {
 
 
 /* Begin Zdenek's CSS */
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:500);
 
 #info {
-font-family: Verdana,Geneva,sans-serif
+font-family: Verdana,Geneva,sans-serif;
+font-family: 'Ubuntu', sans-serif;
 }
 
 
