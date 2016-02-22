@@ -15,8 +15,9 @@ Fine-grained, atomic commits to your Production Problems repository that include
 
 * A monochromatic palette for a website that creates high-end, custom-made gaming laptops.
 
-Filename:
-Explanation of your color choices:
+Filename: week-06-ss1.png
+Explanation of your color choices: 
+For some reason when I think of high performance anything, especially computers, I can see colors screaming at you in a bright, exciting way. I feel like a green tone is best for a custom laptop overall, and I added a few darker tones to contrast it as well. You want something like this to be sleek, cool, and rememberable.
 
 * A shaded color palette for a website that sells natural and organic foods.
 
