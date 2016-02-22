@@ -27,8 +27,9 @@ I think for this one I really wanted to go with something in between green and b
 
 * A complementary palette for a banking website.
 
-Filename:
+Filename: week-06-ss2.png
 Explanation of your color choices:
+With a banking website, I feel that blue is a very inviting color. Some banks that come to mind when I think of this are BMO Harris, Chase, Barclaycard, and even Capital One to some extent. On the other end of the spectrum, I think that gold (or gold-like hue) is very good in terms of banking as it could resemble real gold. That would make the customer think it would be something worth looking into. I think with banks a lot of times people go with what is popular and something that could give them a feeling of being rich whether they are or not. I also think these colors give people a sense of empowerment. 
 
 * A triadic palette for a website that offers games for children.
 
