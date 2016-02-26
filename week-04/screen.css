@@ -1,0 +1,101 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/*End CSS Reset*/
+
+/* Begin Zdenek's CSS */
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:500);
+
+#info {
+	font-family: Verdana,Geneva,sans-serif;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+label {
+	color: #f2f2f2;
+	display: block;
+	margin-top: 1em;
+	font-size: 1.25em;
+}
+
+#wrapper {
+	margin-top: 1.5em;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 2em;
+	display: block;
+	text-align: center;
+	width: 17em;
+	border: 2px solid #262626;
+	padding: 0.5em;
+	background-color: #004080;
+}
+
+input, textarea {
+	width: 70%
+	margin: auto;
+	margin-top: 0.1em;
+	margin-bottom: 0.25em;
+	background-color: #d9d9d9;
+}
+
+input[type=submit] {
+	margin-top: 1em;
+    padding:5px 15px; 
+    background:#ccc; 
+    border:0 none;
+    cursor:pointer;
+    border-radius: 5px; 
+}
+
+input[type=submit]:hover {
+	color: #1a1aff;
+}
+
+
+
