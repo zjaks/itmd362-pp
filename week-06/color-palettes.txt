@@ -1,0 +1,37 @@
+# Production Problem 4: Color Palettes for HCI
+
+## The Problem
+
+Using either Adobe Color CC (https://color.adobe.com/), Paletton (http://paletton.com/), or another
+Web-based palette generator of your choosing, you will create a number of different color palettes,
+based on the requirements in the Deliverables section below.
+
+## Deliverables
+
+Fine-grained, atomic commits to your Production Problems repository that include:
+
+1) screenshots of your web-based palette for the four palettes below;
+2) an explanation, after each palette request below, why you chose the colors you did
+
+* A monochromatic palette for a website that creates high-end, custom-made gaming laptops.
+
+Filename: week-06-ss1.png
+Explanation of your color choices: 
+For some reason when I think of high performance anything, especially computers, I can see colors screaming at you in a bright, exciting way. I feel like a green tone is best for a custom laptop overall, and I added a few darker tones to contrast it as well. You want something like this to be sleek, cool, and rememberable.
+
+* A shaded color palette for a website that sells natural and organic foods.
+
+Filename: week-06-ss2.png
+Explanation of your color choices:
+I think for this one I really wanted to go with something in between green and blue, sort of like an aquamarine color. I feel like this is important because in my opinion green is similar to 'earthy' things and food that grows, it is also a popular choice for some popular supermarkets. It's also considered to be 'healthy' if you're 'green' as well. And then for the blue half, water would resemble life. I think a good balance in between both with good shading could give that website some really unique depth. 
+
+* A complementary palette for a banking website.
+
+Filename: week-06-ss3.png
+Explanation of your color choices:
+With a banking website, I feel that blue is a very inviting color. Some banks that come to mind when I think of this are BMO Harris, Chase, Barclaycard, and even Capital One to some extent. On the other end of the spectrum, I think that gold (or gold-like hue) is very good in terms of banking as it could resemble real gold. That would make the customer think it would be something worth looking into. I think with banks a lot of times people go with what is popular and something that could give them a feeling of being rich whether they are or not. I also think these colors give people a sense of empowerment. 
+
+* A triadic palette for a website that offers games for children.
+
+Filename:
+Explanation of your color choices:
