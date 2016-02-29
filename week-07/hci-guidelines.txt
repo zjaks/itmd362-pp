@@ -42,3 +42,6 @@ https://msdn.microsoft.com/library/windows/desktop/dn742468.aspx
 
 * How you implemented it in your sketch: 
 Not surprisingly, I decided to take inspiration from all three given sources of information guidelines. For Windows, sometimes I feel like they can have a clunky UI. One thing I really admire Windows is how touch-friendly their UI is. Not necessarily RESPONSIVE, but just a UI that is visually appealing and easy to use if touch is your input of choice. I think of Windows 8's Activity center when you press the start button, or similarly in Windows 10, when you press the start button and the large, interactive tiles come out from the sidebar to provide a visually pleasing and touch-friendly interface. I think I wanted that kind of capability when I sketched my design out as well. It's not necessarily the "box" look that I showed in the second sketch, but more so a UI that would be very easy to interact with whether you are clicking with a mouse, trackpad, or touch screen. There are not any tiny links to click or small boxes that lead to other areas of the site. It is a large, desktop and mobile friendly interface that has large areas to click, and it is difficult to get lost on the page as well.  
+
+
+
