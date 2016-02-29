@@ -27,13 +27,18 @@ Fine-grained, atomic commits to your Production Problems repository that include
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
 * HCI Guidline One (URL): https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/
+
 * How you implemented it in your sketch:
 I implemented Apple's iOS Guidelines mostly for the overall look and feel of the new page. I feel like the use of a lot of negative space is good for a portion of a website where you log in to something. Something that Apple stresses is to be simple, and to the point, instead of having a lot of filler in your website or app. I feel like this was implemented by having buttons that were clickable, but not necessarily screaming out "Look! I'm a button!".
 
 * HCI Guidline Two (URL):
 https://www.google.com/design/spec/animation/authentic-motion.html#
+
 * How you implemented it in your sketch:
 I implemented Android's design guidelines in a way that actually isn't physically seen in my sketches, but a conceptual thought of the design process and something that is interactive. First, in "myiit1.jpg", I tried realized after I drew the sketch that I forgot to include a login button, and then did not leave enough space for it. I then made the somewhat risky decision to make the "MyIIT" logo as the login button, as it was in the perfect position. Normally I would not want to add something unnecessary, but I felt that the small "login" text next to the button was important to avoid any confusion on what that was. The idea would be using javascript, when the login button is pressed the content would disappear except for the MyIIT logo, and then it would actually quickly transition from the bottom center, along the bottom of the screen to the left side, and then directly upwards. This would be implementing Asymmetric acceleration and deceleration as described in the guidelines. I also would be doing another form of transition on "myiit2.jpg". When the top navigation bar is hovered over, a mass amount of links are given so the user so they can quickly navigate around MyIIT to the place they need to be immediately. It is structured in each column with related information. When the hover happens, it actually would just push the navigation bar directly down, almost like it was hiding behind the slideshow of links and images that is on the large section of the UI. That center part would not be affected in size, only slightly pushed downward along with the rest of the page. Both transitions would be done in a minimally invasive way, so as to grab the user's attention, but not distract away from the rest of the page. 
 
-* HCI Guidline Three (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Three (URL): 
+https://msdn.microsoft.com/library/windows/desktop/dn742468.aspx
+
+* How you implemented it in your sketch: 
+Not surprisingly, I decided to take inspiration from all three given sources of information guidelines. For Windows, sometimes I feel like they can have a clunky UI. One thing I really admire Windows is how touch-friendly their UI is. Not necessarily RESPONSIVE, but just a UI that is visually appealing and easy to use if touch is your input of choice. I think of Windows 8's Activity center when you press the start button, or similarly in Windows 10, when you press the start button and the large, interactive tiles come out from the sidebar to provide a visually pleasing and touch-friendly interface. I think I wanted that kind of capability when I sketched my design out as well. It's not necessarily the "box" look that I showed in the second sketch, but more so a UI that would be very easy to interact with whether you are clicking with a mouse, trackpad, or touch screen. There are not any tiny links to click or small boxes that lead to other areas of the site. It is a large, desktop and mobile friendly interface that has large areas to click, and it is difficult to get lost on the page as well.  
