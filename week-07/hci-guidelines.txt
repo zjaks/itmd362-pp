@@ -26,11 +26,14 @@ Fine-grained, atomic commits to your Production Problems repository that include
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
+* HCI Guidline One (URL): https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/
 * How you implemented it in your sketch:
+I implemented Apple's iOS Guidelines mostly for the overall look and feel of the new page. I feel like the use of a lot of negative space is good for a portion of a website where you log in to something. Something that Apple stresses is to be simple, and to the point, instead of having a lot of filler in your website or app. I feel like this was implemented by having buttons that were clickable, but not necessarily screaming out "Look! I'm a button!".
 
 * HCI Guidline Two (URL):
+https://www.google.com/design/spec/animation/authentic-motion.html#
 * How you implemented it in your sketch:
+I implemented Android's design guidelines in a way that actually isn't physically seen in my sketches, but a conceptual thought of the design process and something that is interactive. First, in "m
 
 * HCI Guidline Three (URL):
 * How you implemented it in your sketch:
