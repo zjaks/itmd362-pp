@@ -13,13 +13,14 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1. 
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Accessibility for everyone is a must. Load times, easy to read, etc. to accomodate 
+everyone if possible. Allowing people to change the text size adds to that as well.
+2. A simple design that just works. Not overloaded with content or crammed on one page. 
+3. Put the intensity to the information users want to know.
+4. Avoid unnecessary animation and popups.
+5. Company/site Logo Is Prominently Placed. 
+6. Navigation Labels Are Clear & Concise.
+7.  Major Headings Are Clear & Descriptive
+8. Don’t make users re-enter information even if they click a browser’s back button.
+9. Avoid opening a new window if possible.
+10. Pay attention to the contrast of colors between text and background.
