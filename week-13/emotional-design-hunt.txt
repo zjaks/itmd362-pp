@@ -20,6 +20,6 @@ B. Emotional design levels of your object:
 
 C.  Emotional design qualities of the object that might be useful for Project 3/MyIIT redesign:
 
-1.
-2.
-3.
+1. It is an aesthetically beautiful glove. Although MyIIT has nothing directly to do with sports or baseball, we can attempt to make our page very appealing to the eyes, since students would be using this on a day to day basis.
+2. It brings out emotion in you. When I envision someone using our redesigned page, I imagine that they would get a sense of pride when they see their beautiful IIT login page, it would make them proud to go to their school in a small way. 
+3. It is SIMPLE, a little bit of flashy, and it WORKS. This is very important because I believe a user experience should allow anyone to flawlessly navigate around a page that is easy to use, is simple enough for the average user, and also isn't boring in any way. Kind of like a "less is more" approach. 
